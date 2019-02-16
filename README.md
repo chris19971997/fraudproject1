@@ -6,4 +6,7 @@ instructed by Dr. Stephen Coggeshall.
 
 This project is about New York City Property Data Analysis and Fraud Detection.
 
-Data can be retrieved from
+In this project, I used Principal Component Analysis (PCA) and Autoencoder to detect anomarlies in NY Property data.
+
+Data can be retrieved from https://data.cityofnewyork.us/Housing-Development/Property-Valuation-and-Assessment-Data/rgy2-tti8
+
